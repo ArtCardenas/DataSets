@@ -6,3 +6,9 @@ Datasets, Text Files, any Source Data
 https://github.com/boto/boto
 
 https://github.com/shaunduncan/nosqlite
+
+https://github.com/pytest-dev/pytest
+
+https://github.com/alfredodeza
+
+https://github.com/alfredodeza/flask-ml-azure
