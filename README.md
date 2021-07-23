@@ -9,6 +9,4 @@ https://github.com/shaunduncan/nosqlite
 
 https://github.com/pytest-dev/pytest
 
-https://github.com/alfredodeza
-
 https://github.com/alfredodeza/flask-ml-azure
